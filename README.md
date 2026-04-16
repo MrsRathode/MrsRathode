@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Aspiring+Engineer;Web+Developer;Lifelong+Learner;Passionate+about+Building+and+Learning" alt="Typing Animation"/>
 </p>
 
----
+
 
 ### 🌟 About Me
 
