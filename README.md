@@ -12,11 +12,12 @@
 
 ### 🌟 About Me
 
-* 🎓 **B.Tech in Electronics and Communication Engineering** at IIIT Bhagalpur
-* 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**
-* 💻 Skilled in developing **ML models**, **frontend projects**, and **C++ applications**
-* 🌱 Constantly learning and improving my problem-solving skills
-* 💬 Ask me about **Python, C++, ML, or Web Development**
+* 🎓 B.Tech in Electronics and Communication Engineering at IIIT Bhagalpur  
+* 🚀 Full Stack Developer specializing in the **MERN Stack**  
+* 💻 Experienced in developing scalable web applications and interactive user interfaces  
+* 🤖 Enthusiastic about **Artificial Intelligence** and **Machine Learning**  
+* 🌱 Passionate about continuous learning and solving real-world problems  
+* 💬 Ask me about **React, Node.js, MongoDB, JavaScript, Python, C++**
 
 
 
