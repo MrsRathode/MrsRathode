@@ -1,9 +1,11 @@
 <h1 align="center">✨ Hey there, I'm Banothu Anusha ✨</h1>
 
-<h3 align="center">AI & ML Enthusiast | Web Developer | Lifelong Learner</h3>
+<h3 align="center">
+🚀 Full Stack Developer | MERN Stack | AI & ML Enthusiast | Lifelong Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Aspiring+Engineer;Web+Developer;Lifelong+Learner;Passionate+about+Building+and+Learning" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+ML+Enthusiast;Web+Developer;Lifelong+Learner;Passionate+about+Building+and+Learning" alt="Typing Animation"/>
 </p>
 
 
