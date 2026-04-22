@@ -56,9 +56,9 @@
 **Artificial Intelligence Intern — Infosys Springboard 6.0**
 *Aug 2025 – Oct 2025*
 
-* Worked on **Machine Learning models** for predicting bike demand using Python, Pandas, Matplotlib, and Seaborn.
-* Deployed the ML project on **Streamlit Cloud**.
-* Gained experience with **version control (GitHub)** and data analysis tools.
+* Worked on **Machine Learning models**
+* Deployed project on Streamlit
+* Used GitHub & data tools
 
 ---
 
@@ -74,10 +74,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=MrsRathode&theme=onedark&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" 
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=MrsRathode&theme=flat" />
 </p>
 
 ---
@@ -94,7 +91,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-  <i>✨ “Code. Create. Learn. Repeat.” ✨</i>
+  <i>✨ Code. Create. Learn. Repeat. ✨</i>
 </p>
+
 
 
