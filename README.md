@@ -50,6 +50,94 @@
 </p>
 
 ---
+---
+
+### 🚀 Languages
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45"/>
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45"/>
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/plasticine/200/html-5.png" width="45" height="45"/>
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/plasticine/200/css3.png" width="45" height="45"/>
+      <br>CSS
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Frameworks & Libraries
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45"/>
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/color/48/nodejs.png" width="45" height="45"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45"/>
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"/>
+      <br>Tailwind
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 Tools & Platforms
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/color/48/mongodb.png" width="45" height="45"/>
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/doodle/48/github--v1.png" width="45" height="45"/>
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45"/>
+      <br>Vercel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=render" width="45" height="45"/>
+      <br>Render
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/dusk/64/postman-api.png" width="45" height="45"/>
+      <br>Postman
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/dusk/64/visual-studio.png" width="45" height="45"/>
+      <br>VS Code
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 💼 Experience
 
