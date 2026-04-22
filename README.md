@@ -71,10 +71,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrsRathode&theme=flat" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrsRathode&theme=tokyo-night" />
 </p>
 
 ---
@@ -93,6 +93,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
   <i>✨ Code. Create. Learn. Repeat. ✨</i>
 </p>
+
 
 
 
