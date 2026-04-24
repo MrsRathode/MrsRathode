@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hey there, I'm Banothu Anusha ✨</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack | AI & ML Enthusiast | Lifelong Learner
+🚀 Full Stack Developer | MERN Stack | AI & ML Enthusiast |  Lifelong Learner
 </h3>
 
 <p align="center">
