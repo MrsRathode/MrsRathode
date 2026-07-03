@@ -121,14 +121,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrsRathode&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrsRathode&theme=tokyonight" height="160px"/>
-</p>
-
----
-### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrsRathode&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrsRathode&theme=tokyonight&cache_seconds=1800" height="160px"/>
