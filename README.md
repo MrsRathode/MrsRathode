@@ -1,126 +1,140 @@
-<h1 align="center">Hi 👋, I'm Banothu Anusha</h1>
+# Hi 👋, I'm Banothu Anusha
 
 <h3 align="center">
-Full Stack Developer (MERN) • AI & Machine Learning Enthusiast • Data Science Explorer
+🚀 Software Engineer • Full Stack MERN Developer • AI & Machine Learning Enthusiast • Product Management • Open Source Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Science+Explorer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Hi+I'm+Banothu+Anusha;Software+Engineer;Full+Stack+MERN+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Product+Management+Intern;Building+Scalable+Applications;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrsRathode&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anusha26/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:mrsrathode@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/MrsRathode">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=MrsRathode&label=Profile+Views&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/MrsRathode?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/MrsRathode?style=for-the-badge"/>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 👋 About Me
 
-- 🎓 B.Tech in Electronics & Communication Engineering, **IIIT Bhagalpur (2027)**
-- 💻 Passionate **Full Stack Developer** specializing in the **MERN Stack**
-- 🤖 AI & Machine Learning enthusiast
-- 📊 Exploring **Data Science** and Generative AI
-- 🚀 Love building scalable web applications and AI-powered solutions
-- 🌱 Currently learning **Next.js, TypeScript and Advanced MERN**
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, Python, C++, AI & ML**
+🎓 Final Year B.Tech student in Electronics & Communication Engineering at **IIIT Bhagalpur**.
+
+I'm a passionate **Software Engineer**, **Full Stack MERN Developer**, **AI & Machine Learning Enthusiast**, and **Aspiring Product Engineer**.
+
+I have gained practical experience through internships in **Full Stack Development**, **Artificial Intelligence**, and **Product Management**. At Infosys Springboard, I built machine learning applications using Python and Streamlit. At Quamin Tech Solutions LLP, I contributed to product planning by preparing PRDs, user stories, QA documentation, sprint planning, and UAT.
+
+I enjoy building scalable web applications, solving challenging problems using Data Structures & Algorithms, and applying AI to real-world use cases. I love learning new technologies and continuously improving my software engineering skills.
+
+### 🌱 Currently Learning
+
+- Next.js
+- TypeScript
+- Advanced MERN
+- AI & Machine Learning
+- Generative AI
+- System Design
+- Cloud Computing
+- Data Structures & Algorithms
+
+### 🎯 Career Goal
+
+To become a Software Engineer who builds scalable, reliable, and AI-powered products that positively impact millions of users.
+
+---
+
+# 💼 Experience
+
+## 🚀 Product Management Intern — Quamin Tech Solutions LLP
+- PRDs
+- User Stories
+- Sprint Planning
+- QA & UAT
+- Product Validation
+
+## 🤖 AI Intern — Infosys Springboard
+- Machine Learning
+- Python
+- Streamlit
+- Data Analysis
+- Model Deployment
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Languages
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,sql"/>
 </p>
 
-### ⚛ Frontend
+## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
 </p>
 
-### 🚀 Backend
+## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
 </p>
 
-### 🧰 Tools
+## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,render"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description | Links |
-|----------|-------------|-------|
-| 🚀 **GrowEasy AI CSV → CRM Importer** | AI-powered CSV importer using Google Gemini AI for intelligent CRM field mapping | **[Live Demo](https://groweasy-frontend-93mi.onrender.com/)** • **[GitHub](https://github.com/MrsRathode/groweasy-ai-csv-importer)** |
-| 💬 **ChatSphere** | Real-time MERN chat application with authentication and Socket.io | **[Live Demo](https://chatsphere-50is.onrender.com/)** |
-| 🚴 **RideWise** | Bike Demand Prediction using Machine Learning and Streamlit | **[GitHub](https://github.com/MrsRathode/bike-demand-prediction)** |
-| 🎟 **Ticket Booking System** | C++ console application demonstrating Object-Oriented Programming concepts | **[GitHub](https://github.com/MrsRathode/Ticket-Booking-System)** |
-| ❤️ **Heart Animation** | Interactive animation built using HTML, CSS and JavaScript | **[GitHub](https://github.com/MrsRathode/heart-animation)** |
+### 🚀 GrowEasy AI CSV Importer
+- AI-powered CRM CSV mapping using Google Gemini
+- Node.js, React, TypeScript
+
+### 🚴 RideWise
+- Bike demand prediction using Machine Learning and Streamlit
+
+### 💬 ChatSphere
+- Real-time MERN chat application using Socket.IO
+
+### 🎟 Ticket Booking System
+- C++ OOP project
 
 ---
 
-# 🌱 Currently Learning
-
-- ⚡ Next.js
-- 📘 TypeScript
-- 🤖 Generative AI
-- 📊 Machine Learning
-- 💻 Data Structures & Algorithms
-
----
-
-# 📈 GitHub Contribution Graph
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrsRathode&theme=tokyo-night" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrsRathode&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrsRathode&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MrsRathode&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrsRathode&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MrsRathode&theme=algolia&column=4"/>
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
-
-<a href="mailto:mrsrathode@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/MrsRathode">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/anusha26/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+- LinkedIn: https://linkedin.com/in/anusha26
+- GitHub: https://github.com/MrsRathode
+- Email: mrsrathode@gmail.com
 
 ---
 
-<p align="center">
+> "The expert in anything was once a beginner."
 
-⭐ Thanks for visiting my profile!  
-If you like my projects, don't forget to ⭐ them.
-
-</p>
+⭐ Thanks for visiting my profile!
