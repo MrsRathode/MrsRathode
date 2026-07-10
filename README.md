@@ -149,7 +149,7 @@ I also completed an AI internship at **Infosys Springboard**, where I developed 
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
----
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C2FF,100:7F00FF"/>
