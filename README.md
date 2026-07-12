@@ -21,7 +21,7 @@
 - 🎓 Final Year B.Tech (ECE), IIIT Bhagalpur
 - 💼 Full Stack Developer Intern at **Quamin Tech Solutions LLP**
 - 🤖 Artificial Intelligence Intern at **Infosys Springboard**
-- 🚀 Passionate about Software Engineering, Backend Development & Artificial Intelligence
+- 🚀 Passionate about Software Engineering, Backend Development &   Artificial Intelligence
 - 🌱 Learning **Next.js, TypeScript, System Design & Cloud**
 - 📫 Reach me: **mrsrathode@gmail.com**
 
