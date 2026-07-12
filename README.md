@@ -127,16 +127,13 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MrsRathode&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrsRathode&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MrsRathode&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrsRathode&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MrsRathode&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrsRathode&theme=github_dark"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrsRathode&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrsRathode&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 
