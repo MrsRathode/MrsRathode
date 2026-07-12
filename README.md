@@ -119,9 +119,9 @@
 
 # 🌍 Open Source
 
-- Hacktoberfest Participant
-- Open Source Learner
-- Active GitHub Contributor
+- 🎃 Hacktoberfest Participant
+- 🌍 Open Source Contributor
+- 💡 Building, learning, and collaborating with the developer community
 
 ---
 
