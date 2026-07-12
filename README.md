@@ -20,7 +20,7 @@
 
 - 🎓 Final Year B.Tech (ECE), IIIT Bhagalpur
 - 💼 Full Stack Developer Intern at **Quamin Tech Solutions LLP**
-- 🤖 Former AI Intern at **Infosys Springboard**
+- 🤖 Artificial Intelligence Intern at **Infosys Springboard**
 - 🚀 Passionate about Software Engineering, Backend Development & AI
 - 🌱 Learning **Next.js, TypeScript, System Design & Cloud**
 - 📫 Reach me: **mrsrathode@gmail.com**
@@ -45,27 +45,54 @@
 - Streamlit deployment
 
 ---
-
 # 🛠 Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,sql"/>
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,sql" />
 </p>
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap" />
 </p>
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,render"/>
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### 🤖 AI / Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,render,netlify" />
+</p>
+
+### 🛠 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+</p>
+
+### 📚 Currently Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,docker,aws" />
 </p>
 
 ---
