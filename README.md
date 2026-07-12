@@ -114,13 +114,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrsRathode&theme=tokyonight"/>
 </p>
 
-> **Optional Snake Animation**
->
-> ```md
-> ![snake gif](https://github.com/MrsRathode/MrsRathode/blob/output/github-contribution-grid-snake.svg)
-> ```
+## 🐍 Contribution Snake
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrsRathode/MrsRathode/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 # 🌱 Currently Learning
 
