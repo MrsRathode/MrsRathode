@@ -114,11 +114,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrsRathode&theme=tokyonight"/>
 </p>
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MrsRathode/MrsRathode/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 # 🌱 Currently Learning
 
