@@ -111,12 +111,11 @@
 
 # 🏆 Achievements
 
-- 🌟 GirlScript Summer of Code Contributor
-- 🏅 Government of Telangana Merit Award
-- 🥇 NISER ST Rank 69
-- 🎖 Top 150 in IISER Entrance Examination
-
----
+- 🎓 Selected as an **Infosys Pragati Mentee 2026**
+- 🌟 Selected as a **GirlScript Summer of Code (GSSoC) Contributor**
+- 🏅 Recipient of the **Government of Telangana Merit Award** for Academic Excellence
+- 🥇 Secured **All India Rank 69** in the **NISER Entrance Examination**
+- 🎖 Ranked among the **Top 150 All India** candidates in the **IISER Aptitude Test (IAT)**
 
 # 🌍 Open Source
 
