@@ -35,7 +35,7 @@ I also completed an AI internship at **Infosys Springboard**, where I developed 
 
 ---
 
-# 💼 Experience
+##💼 Experience
 
 ## 💻 Full Stack Developer Intern — Quamin Tech Solutions LLP
 
