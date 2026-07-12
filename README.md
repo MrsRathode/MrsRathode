@@ -84,7 +84,12 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vercel,render,netlify" />
 </p>
+### ☁️ Cloud & Deployment
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,firebase" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+</p>
 ### 🛠 Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
