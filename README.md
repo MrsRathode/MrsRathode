@@ -1,135 +1,173 @@
-# Hi, I'm Banothu Anusha 👋
 
-### Software Engineer | Full Stack MERN Developer | AI & Machine Learning Enthusiast
+# Hi 👋, I'm Banothu Anusha
 
-Final-year B.Tech student in **Electronics & Communication Engineering** at **IIIT Bhagalpur** with experience building full-stack web applications and AI-powered solutions. I enjoy developing scalable software, designing clean APIs, solving real-world problems, and continuously learning modern technologies.
+<h3 align="center">Software Engineer • Full Stack MERN Developer • AI & Machine Learning Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Full+Stack+MERN+Developer;Software+Engineer;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/MrsRathode"><img src="https://img.shields.io/github/followers/MrsRathode?style=for-the-badge&logo=github"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MrsRathode&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-* 🎓 Final Year B.Tech (ECE) at **IIIT Bhagalpur**
-* 💼 Full Stack Developer Intern at **Quamin Tech Solutions LLP**
-* 🤖 Former Artificial Intelligence Intern at **Infosys Springboard**
-* 💻 Interested in Software Engineering, Backend Development, and AI
-* 🌱 Currently learning **Next.js, TypeScript, System Design, and Cloud Computing**
-* 📍 Open to Software Engineering and Full Stack Developer opportunities
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 Final Year B.Tech (ECE), IIIT Bhagalpur
+- 💼 Full Stack Developer Intern at **Quamin Tech Solutions LLP**
+- 🤖 Former AI Intern at **Infosys Springboard**
+- 🚀 Passionate about Software Engineering, Backend Development & AI
+- 🌱 Learning **Next.js, TypeScript, System Design & Cloud**
+- 📫 Reach me: **mrsrathode@gmail.com**
 
 ---
 
 ## 💼 Experience
 
-### Full Stack Developer Intern — Quamin Tech Solutions LLP
+### 💻 Full Stack Developer Intern — Quamin Tech Solutions LLP
 
-* Built responsive web applications using the MERN stack.
-* Developed reusable React components and REST APIs.
-* Integrated frontend and backend services.
-* Collaborated with developers using Git and Agile workflows.
-* Worked on **Quamin CopyGuard**, an AI-powered content authenticity platform.
-* Improved application performance and resolved production issues.
+- Built MERN applications using React, Node.js, Express.js and MongoDB
+- Developed reusable UI components
+- Designed and integrated REST APIs
+- Collaborated in Agile teams using Git & GitHub
+- Worked on **Quamin CopyGuard**, an AI-powered content authenticity platform
 
-### Artificial Intelligence Intern — Infosys Springboard
+### 🤖 Artificial Intelligence Intern — Infosys Springboard
 
-* Built machine learning models using Python.
-* Performed data preprocessing and exploratory data analysis.
-* Developed a bike demand prediction system.
-* Deployed ML applications using Streamlit.
+- Built Machine Learning models with Python
+- Data preprocessing & visualization
+- Bike demand prediction project
+- Streamlit deployment
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
-
-`C++` `Python` `JavaScript` `SQL` `HTML` `CSS`
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,sql"/>
+</p>
 
 ### Frontend
-
-`React.js` `Next.js` `Tailwind CSS` `Vite`
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
+</p>
 
 ### Backend
-
-`Node.js` `Express.js` `MongoDB` `Firebase`
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+</p>
 
 ### Tools
-
-`Git` `GitHub` `VS Code` `Postman` `Figma` `Vercel` `Render`
-
----
-
-## 🚀 Featured Projects
-
-### 🌟 GrowEasy AI CSV Importer
-
-AI-powered CRM CSV importer that automatically maps CSV columns using Google's Gemini API.
-
-**Tech Stack:** React, Node.js, TypeScript, Express.js, Gemini API
-
----
-
-### 🚴 RideWise
-
-Machine learning application that predicts bike rental demand using weather and time-based features.
-
-**Tech Stack:** Python, Scikit-learn, Pandas, Streamlit
-
----
-
-### 💬 ChatSphere
-
-Real-time chat application with authentication, instant messaging, and Socket.IO.
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB, Socket.IO
-
----
-
-### ✅ Task Manager
-
-Task management application with authentication and CRUD functionality.
-
-**Tech Stack:** Flask, SQLite
-
----
-
-### 🎫 Ticket Booking System
-
-Console-based ticket booking application demonstrating Object-Oriented Programming concepts.
-
-**Tech Stack:** C++
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrsRathode&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrsRathode&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrsRathode&theme=github-dark&hide_border=true"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,render"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 Featured Projects
 
-* Next.js
-* TypeScript
-* System Design
-* Cloud Computing
-* Data Structures & Algorithms
-* Machine Learning
-
----
-
-## 📫 Connect with Me
-
-* LinkedIn: https://linkedin.com/in/anusha26
-* GitHub: https://github.com/MrsRathode
-* Email: [mrsrathode@gmail.com](mailto:mrsrathode@gmail.com)
-* X: https://x.com/anusha_ban15464
+| Project | Description | Tech |
+|---------|-------------|------|
+| **GrowEasy AI CSV Importer** | AI-powered CRM CSV mapping | React, Node.js, TypeScript |
+| **RideWise** | Bike demand prediction | Python, ML, Streamlit |
+| **ChatSphere** | Real-time chat app | MERN, Socket.IO |
+| **TaskFlow** | Task management app | React, Express |
+| **Ticket Booking System** | Console application | C++ |
 
 ---
 
-> *"I enjoy building software that is clean, scalable, and impactful while continuously learning new technologies."*
+# 🏆 Achievements
+
+- 🌟 GirlScript Summer of Code Contributor
+- 🏅 Government of Telangana Merit Award
+- 🥇 NISER ST Rank 69
+- 🎖 Top 150 in IISER Entrance Examination
+
+---
+
+# 🌍 Open Source
+
+- Hacktoberfest Participant
+- Open Source Learner
+- Active GitHub Contributor
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrsRathode&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrsRathode&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MrsRathode&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrsRathode&theme=tokyonight"/>
+</p>
+
+> **Optional Snake Animation**
+>
+> ```md
+> ![snake gif](https://github.com/MrsRathode/MrsRathode/blob/output/github-contribution-grid-snake.svg)
+> ```
+
+---
+
+# 🌱 Currently Learning
+
+- Next.js
+- TypeScript
+- System Design
+- Cloud Computing
+- AI & Machine Learning
+- Data Structures & Algorithms
+
+---
+
+# 🎯 2026 Goals
+
+- Crack an SDE Role
+- Build AI-powered SaaS Products
+- Contribute to Open Source
+- Solve 300+ DSA Problems
+
+---
+
+# 🌐 Coding Profiles
+
+<p>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/></a>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/anusha26"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mrsrathode@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/MrsRathode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://x.com/anusha_ban15464"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3B82F6,100:8B5CF6"/>
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! If you like my projects, consider giving them a star.
+</p>
