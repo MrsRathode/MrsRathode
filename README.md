@@ -56,7 +56,7 @@ I also completed an AI internship at **Infosys Springboard**, where I developed 
 
 ---
 
-# 🛠 Tech Stack
+### 🛠 Tech Stack
 
 ### Languages
 ![](https://skillicons.dev/icons?i=cpp,python,javascript,html,css,sql)
