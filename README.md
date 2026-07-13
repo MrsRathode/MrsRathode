@@ -111,7 +111,7 @@
 
 # 🏆 Achievements
 
-- 🎓 Selected as an **Infosys Pragati Mentee 2026**
+- 🎓 Selected as an **Infosys Pragati Mentee'26**
 - 🌟 Selected as a **GirlScript Summer of Code (GSSoC) Contributor**
 - 🏅 Recipient of the **Government of Telangana Merit Award** for Academic Excellence
 - 🥇 Secured **All India Rank 69** in the **NISER Entrance Examination**
