@@ -127,15 +127,12 @@ Hi 👋, I'm Banothu Anusha
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MrsRathode&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=MrsRathode&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MrsRathode&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrsRathode&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrsRathode&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrsRathode&theme=tokyo-night&hide_border=true" />
 </p>
-
 # 🌱 Currently Learning
 
 - Next.js
