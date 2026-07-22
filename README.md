@@ -133,7 +133,7 @@ Hi 👋, I'm Banothu Anusha
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrsRathode&theme=tokyo-night&hide_border=true" />
 </p>
-# 🌱 Currently Learning
+🌱 Currently Learning
 
 - Next.js
 - TypeScript
