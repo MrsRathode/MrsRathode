@@ -124,7 +124,7 @@ Hi 👋, I'm Banothu Anusha
 - 💡 Building, learning, and collaborating with the developer community
 
 ---
-# 📊 GitHub Analytics
+ 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MrsRathode&theme=tokyonight&hide_border=true" />
