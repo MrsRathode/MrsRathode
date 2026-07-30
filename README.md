@@ -138,7 +138,7 @@ Hi 👋, I'm Banothu Anusha
 </p>
 ---
 
-#🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Next.js
 - TypeScript
