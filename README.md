@@ -137,7 +137,8 @@ Hi 👋, I'm Banothu Anusha
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrsRathode&theme=tokyonight" />
 </p>
 ---
-🌱 Currently Learning
+
+#🌱 Currently Learning
 
 - Next.js
 - TypeScript
