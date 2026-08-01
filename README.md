@@ -130,13 +130,13 @@ Hi 👋, I'm Banothu Anusha
 
 <p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=MrsRathode&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=MrsRathode&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
     alt="GitHub Stats"
   />
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrsRathode&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrsRathode&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
     alt="Top Languages"
   />
 </p>
@@ -144,6 +144,7 @@ Hi 👋, I'm Banothu Anusha
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrsRathode&theme=tokyonight"
+    width="100%"
     alt="Profile Summary"
   />
 </p>
