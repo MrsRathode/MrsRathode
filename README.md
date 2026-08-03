@@ -136,6 +136,7 @@ Hi 👋, I'm Banothu Anusha
 </p>
 ----
 ## 🌱 Currently Learning
+
 - Next.js
 - TypeScript
 - System Design
