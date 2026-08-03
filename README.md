@@ -134,15 +134,6 @@ Hi 👋, I'm Banothu Anusha
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrsRathode&theme=tokyonight" />
 </p>
-----
-## 🌱 Currently Learning
-
-- Next.js
-- TypeScript
-- System Design
-- Cloud Computing
-- AI & Machine Learning
-- Data Structures & Algorithms
 
 ---
 
@@ -152,7 +143,16 @@ Hi 👋, I'm Banothu Anusha
 - Build AI-powered SaaS Products
 - Contribute to Open Source
 - Solve 300+ DSA Problems
+---
 
+## 🌱 Currently Learning
+
+- Next.js
+- TypeScript
+- System Design
+- Cloud Computing
+- AI & Machine Learning
+- Data Structures & Algorithms
 ---
 
 # 🌐 Coding Profiles
