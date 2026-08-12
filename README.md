@@ -182,5 +182,5 @@ Hi 👋, I'm Banothu Anusha
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile! If you like my projects, consider giving them a star.
+⭐ Thanks for visiting my profile! If you like my projects, consider giving them a star
 </p>
