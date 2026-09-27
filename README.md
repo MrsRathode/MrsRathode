@@ -1,4 +1,4 @@
-##3
+##
 
 Hi 👋, I'm Banothu Anusha
 
