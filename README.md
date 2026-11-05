@@ -179,10 +179,18 @@ Hi 👋, I'm Banothu Anusha
 # 🌐 Coding Profiles
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/></a>
+  <a href="https://leetcode.com/u/ms_rathode/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://www.codechef.com/users/ms_rathode" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/anusha309m02" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+  </a>
 </p>
 
 ---
