@@ -112,11 +112,31 @@ Hi 👋, I'm Banothu Anusha
 
 # 🏆 Achievements
 
-- 🎓 Selected as an **Infosys Pragati Mentee'26**
-- 🌟 Selected as a **GirlScript Summer of Code (GSSoC) Contributor**
-- 🏅 Recipient of the **Government of Telangana Merit Award** for Academic Excellence
-- 🥇 Secured **All India Rank 69** in the **NISER Entrance Examination**
-- 🎖 Ranked among the **Top 150 All India** candidates in the **IISER Aptitude Test (IAT)**
+- 🎓 Selected as an Infosys Pragati Mentee '26.
+
+
+
+- 🌟 Selected as a GirlScript Summer of Code (GSSoC) Contributor.
+
+
+
+- 💻 Serving as Technical Lead at GeeksforGeeks (GFG), IIIT Bhagalpur.
+
+
+
+- 🏆 Recognized as a National Semifinalist in Flipkart GRID 8.0.
+
+
+
+- 🏅 Recipient of the Government of Telangana Merit Award for Academic Excellence.
+
+
+
+- 🥇 Secured All India Rank 69 in the NISER Entrance Examination.
+
+
+
+🎖 Ranked among the Top 150 All India candidates in the IISER Aptitude Test (IAT).
 
 # 🌍 Open Source
 
