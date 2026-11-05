@@ -136,7 +136,7 @@ Hi 👋, I'm Banothu Anusha
 
 
 
-🎖 Ranked among the Top 150 All India candidates in the IISER Aptitude Test (IAT).
+- 🎖 Ranked among the Top 150 All India candidates in the IISER Aptitude Test (IAT).
 
 # 🌍 Open Source
 
