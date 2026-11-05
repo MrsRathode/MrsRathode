@@ -163,7 +163,7 @@ Hi 👋, I'm Banothu Anusha
 - Crack an SDE Role
 - Build AI-powered SaaS Products
 - Contribute to Open Source
-- Solve 300+ DSA Problems
+- Solve 600+ DSA Problems
 ---
 
 ## 🌱 Currently Learning
