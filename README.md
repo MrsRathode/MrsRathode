@@ -168,8 +168,6 @@ Hi 👋, I'm Anusha Banothu
 
 ## 🌱 Currently Learning
 
-- Next.js
-- TypeScript
 - System Design
 - Cloud Computing
 - AI & Machine Learning
